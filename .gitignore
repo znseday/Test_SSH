@@ -71,3 +71,7 @@ Thumbs.db
 *.dll
 *.exe
 
+# My own excludes
+id_rsa_test_ssh
+*.pub
+

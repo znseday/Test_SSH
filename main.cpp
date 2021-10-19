@@ -20,6 +20,7 @@ int main()
     cout << "c = " << c << endl;
     cout << "d = " << d << endl;
     cout << "e = " << e << endl;
+    // Я добавила комментарий
 
     return 0;
 }

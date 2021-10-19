@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 
 using namespace std;
 
@@ -13,10 +14,12 @@ int main()
     float b = 3.14f;
     char c = 'A';
     short d = 5;
+    string e = "Hello";
     cout << "a = " << a << endl;
     cout << "b = " << b << endl;
     cout << "c = " << c << endl;
     cout << "d = " << d << endl;
+    cout << "e = " << e << endl;
 
     return 0;
 }

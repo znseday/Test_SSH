@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int a = 30;
+    int a = 50;
     float b = 3.14f;
     char c = 'A';
     cout << "a = " << a << endl;

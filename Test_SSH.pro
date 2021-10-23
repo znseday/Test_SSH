@@ -6,4 +6,5 @@ CONFIG -= qt
 SOURCES += \
         main.cpp
 
-DISTFILES +=
+DISTFILES += \
+    Test2.txt

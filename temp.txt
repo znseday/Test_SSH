@@ -1,6 +1,0 @@
-Before Hello
-Hello
-World!!!
-32
-4
-5

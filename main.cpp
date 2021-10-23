@@ -21,6 +21,7 @@ int main()
     cout << "d = " << d << endl;
     cout << "e = " << e << endl;
     // Я добавила комментарий
+    // Еще один комментарий в main
 
     return 0;
 }

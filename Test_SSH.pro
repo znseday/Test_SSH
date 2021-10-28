@@ -7,4 +7,4 @@ SOURCES += \
         main.cpp
 
 DISTFILES += \
-    Test3.txt
+    Test3_s.txt

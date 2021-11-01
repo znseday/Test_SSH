@@ -15,7 +15,7 @@ int main()
     short d = 5;
     string e = "Hello";
     cout << "a = " << a << endl;
-    cout << "b = " << b << endl;
+    cout << "b = " << b << endl; // Обновляем на main ветке
     cout << "c = " << c << endl;
     cout << "d = " << d << endl;
     cout << "e = " << e << endl;

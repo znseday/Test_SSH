@@ -8,3 +8,5 @@ SOURCES += \
 
 DISTFILES += \
     Test_2.txt
+    Test3_s.txt
+

@@ -9,8 +9,8 @@ using namespace std;
 ///
 int main()
 {
-    int a = 50;
-    float b = 3.14f;
+    int a = 60;
+    float b = 3.14159f;
     char c = 'A';
     short d = 5;
     string e = "Hello";

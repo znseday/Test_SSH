@@ -9,10 +9,9 @@ using namespace std;
 ///
 int main()
 {
-
-    int a = 50;
+    int a = 77;
     float b = 3.14f;
-    char c = 'A';
+    char c = 'B';
     short d = 5;
     string e = "Hello";
     cout << "a = " << a << endl;

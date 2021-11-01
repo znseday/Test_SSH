@@ -18,7 +18,7 @@ int main()
     cout << "b = " << b << endl;
     cout << "c = " << c << endl;
     cout << "d = " << d << endl;
-    cout << "e = " << e << endl;
+    cout << "e = " << e << endl; // Обновление dev3
     // Я добавила комментарий
     // Еще один комментарий в main
 
